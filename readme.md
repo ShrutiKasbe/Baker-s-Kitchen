@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # This is a Baker's Kitchen
 *Home page
 ![This is a home page of Bakery Shop ](./img/home-page.png)
@@ -9,3 +10,8 @@
 ![This is a feedback page of Bakery Shop ](./img/feedback-page.png)
 
 
+=======
+# This is Bakery Kitchen...
+**Home page**
+![This is a home page of Bakery Shop ](./img/home-page.png)
+>>>>>>> 53a0b89e81b45c5197f327f079b93f0f6b874a94
