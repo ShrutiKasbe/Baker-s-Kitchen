@@ -1,3 +1,3 @@
 # This is Bakery Kitchen...
 **Home page**
-![This is a home page of Bakery Shop ](./../home-page.png)
+![This is a home page of Bakery Shop ](./../img/home-page.png)
