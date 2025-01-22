@@ -1,12 +1,12 @@
 <<<<<<< HEAD
 # This is a Baker's Kitchen
-*Home page
+* Home page
 ![This is a home page of Bakery Shop ](./img/home-page.png)
-*About page
+* About page
 ![This is a about page of Bakery Shop ](./img/about-page.png)
-*Gallery page
+* Gallery page
 ![This is a gallery page of Bakery Shop ](./img/gallery-page.png)
-*Feedback page
+* Feedback page
 ![This is a feedback page of Bakery Shop ](./img/feedback-page.png)
 
 
